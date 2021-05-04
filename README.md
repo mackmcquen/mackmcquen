@@ -3,7 +3,7 @@
             ~\------(oo) <(   My name is Mack, and I am a Software Engineer Intern at Trajektory  )
               ||    (__)   (                                                                     )
               ||w--||
-#### Most Used Tools:
+#### Skillset:
 - Javascript (ES6) & Node.js
 - React, Redux & Context
 - HTML5 & CSS3
