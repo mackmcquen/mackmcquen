@@ -4,10 +4,20 @@
               ||    (__)   (                                                                     )
               ||w--||
 #### Skillset:
-- Javascript (ES6) & Node.js
-- React, Redux & Context
-- HTML5 & CSS3
-- SQL & Sequelize (MySQL)
-- GCP
+• Javascript
+• Ruby & Ruby on Rails
+• React & Redux
+• SQL
+• HTML & CSS
+• SQLite, PostgreSQL, MongoDB
+• Sinatra & Active Record
+• JSON Web Token
+• Node.js
+• GraphQL & Postman
+• Google Cloud Platform, Netlify & Heroku
+• Strapi
+• Material-UI
+• WordPress
+• Git
 
 [LinkedIn](https://www.linkedin.com/in/mackmcquen/)
