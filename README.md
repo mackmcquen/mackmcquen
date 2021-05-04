@@ -4,19 +4,39 @@
               ||    (__)   (                                                                     )
               ||w--||
 #### Skillset:
+
+Languages
 - Javascript
 - Node.js
-- Ruby & Ruby on Rails
-- React & Redux
-- SQL (MySQL, PostgreSQL, SQLite, MongoDB)
-- HTML & CSS
-- Sinatra & Active Record
-- JSON Web Token
-- GraphQL & Postman
-- Google Cloud Platform, Netlify & Heroku
+- Ruby
+- HTML
+- CSS
+- SQL
+
+Frameworks & State Containers
+- React
+- Redux
+- Context
+- Ruby on Rails
+
+Databases
+- MySQL
+- PostgreSQL
+- MongoDB
+- SQLite
+
+Misc.
+- Git
 - Material-UI
+- GraphQL
+- JSON Web Token
+- Google Cloud Platform
+- Postman
+- Sinatra
+- Active Record
+- Netlify
+- Heroku
 - Strapi
 - WordPress
-- Git
 
 [LinkedIn](https://www.linkedin.com/in/mackmcquen/)
