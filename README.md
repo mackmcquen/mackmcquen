@@ -3,6 +3,7 @@
             ~\------(oo) <(   My name is Mack, and I am a Software Engineer Intern at Trajektory  )
               ||    (__)   (                                                                     )
               ||w--||
+
 #### Skillset:
 
 Languages
