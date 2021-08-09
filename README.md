@@ -1,7 +1,7 @@
 # Greetings
-                    (__)   /                                                                     \
-            ~\------(oo) <(   My name is Mack, and I am a Software Developer at Trajektory        )
-              ||    (__)   \                                                                     /
+                    (__)   /                                                                \
+            ~\------(oo) <(   My name is Mack, and I am a Software Developer at Trajektory.  )
+              ||    (__)   \                                                                /
               ||w--||
 
 #### Skillset:
