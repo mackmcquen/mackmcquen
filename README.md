@@ -8,17 +8,23 @@
 
 Languages
 - Javascript
-- Node.js
 - Ruby
 - HTML
 - CSS
 - SQL
 
-Frameworks & State Containers
+Libraries
 - React
 - Redux
 - Context
+- Material-UI
+- GraphQL
 - Ruby on Rails
+- Active Record
+- Sinatra
+
+Runtime Environments
+- Node.js
 
 Databases
 - MySQL
@@ -28,16 +34,13 @@ Databases
 
 Misc.
 - Git
-- Material-UI
-- GraphQL
 - JSON Web Token
 - Google Cloud Platform
 - Postman
-- Sinatra
-- Active Record
 - Netlify
 - Heroku
 - Strapi
 - WordPress
+
 
 [LinkedIn](https://www.linkedin.com/in/mackmcquen/)
