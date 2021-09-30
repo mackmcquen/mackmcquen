@@ -46,5 +46,3 @@ Misc.
 [LinkedIn](https://www.linkedin.com/in/mackmcquen/)
 
 ![Mack's GitHub stats](https://github-readme-stats.vercel.app/api?username=mackmcquen&count_private=true&show_icons=true&theme=gruvbox&hide_border=true&hide=issues,contribs)
-
-![Mack's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mackmcquen&v=2)
