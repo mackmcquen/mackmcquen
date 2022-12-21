@@ -14,9 +14,12 @@ Languages
 - SQL
 
 Libraries
+State Management:
 - React
 - Redux
 - Context
+- Zustand
+
 - Material-UI
 - GraphQL
 - Ruby on Rails
