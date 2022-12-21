@@ -20,8 +20,7 @@ State Management:
 - Redux
 - Context
 - Zustand
-
-
+---
 - Material-UI
 - GraphQL
 - Ruby on Rails
