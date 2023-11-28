@@ -1,5 +1,5 @@
 # Greetings
-                    /\/\   /                                                                \
+                    /\/\    /                                                                \
              /------(^ ^) <(   My name is Mack, and I am a Software Developer at Trajektory.  )
             / ||---||       \                                                                /
               
