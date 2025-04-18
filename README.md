@@ -3,25 +3,29 @@
              /------(^ ^) <(   My name is Mack, and I am a Software Developer at Trajektory.  )
             / ||---||       \                                                                /
               
-#### Skillset:
+### Skillset
 
-Languages
+**Languages:**
+
 - Javascript
-- Ruby
+- SQL
 - HTML
 - CSS
-- SQL
+- C++
+- Ruby
 
-Libraries
+**Familiar Key Libraries:**
 
 State Management:
 - React
-- Redux
-- Context
 - Zustand
+- Context
+- Redux
 ---
 - Material-UI
+- Tanstack (React) Query
 - GraphQL
+- Recharts
 - Ruby on Rails
 - Active Record
 - Sinatra
@@ -37,8 +41,8 @@ Databases
 
 Misc.
 - Git
-- JSON Web Token
 - Google Cloud Platform
+- JSON Web Token
 - Postman
 - Netlify
 - Heroku
