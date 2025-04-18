@@ -52,6 +52,8 @@
 - Git
 - Google Cloud Platform
 - JSON Web Token
+- Figma
+- Zeplin
 - Postman
 - Netlify
 - Heroku
