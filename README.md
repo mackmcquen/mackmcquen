@@ -65,4 +65,4 @@ I professionally work with full-stack JavaScript (TypeScript) and enjoy C++ as a
 - WordPress
 
 
-[LinkedIn](https://www.linkedin.com/in/mackmcquen/)
+Thanks for reading!
