@@ -14,21 +14,24 @@
 - C++
 - Ruby
 
-### Familiar Key Libraries
+### Familiar Key Libraries (Node JS)
 
-**State Management**
+**Frontend**
 
 - React
+- Material-UI
+- Tanstack (React) Query
+- Recharts
 - Zustand
 - Context
 - Redux
 
 ---
 
-- Material-UI
-- Tanstack (React) Query
+**Backend**
+
+- Express
 - GraphQL
-- Recharts
 - Ruby on Rails
 - Active Record
 - Sinatra
