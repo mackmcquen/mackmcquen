@@ -5,7 +5,7 @@
               
 ## Skillset
 
-I professionally work with full-stack JavaScript and enjoy C++ as a hobby.
+I professionally work with full-stack JavaScript (TypeScript) and enjoy C++ as a hobby.
 
 ### Languages
 
