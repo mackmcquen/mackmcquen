@@ -3,9 +3,9 @@
              /------(^ ^) <(   My name is Mack, and I am a Software Developer at Trajektory.  )
             / ||---||       \                                                                /
               
-### Skillset
+## Skillset
 
-**Languages:**
+### Languages
 
 - Javascript
 - SQL
@@ -14,14 +14,17 @@
 - C++
 - Ruby
 
-**Familiar Key Libraries:**
+### Familiar Key Libraries
 
-State Management:
+**State Management**
+
 - React
 - Zustand
 - Context
 - Redux
+
 ---
+
 - Material-UI
 - Tanstack (React) Query
 - GraphQL
@@ -30,16 +33,19 @@ State Management:
 - Active Record
 - Sinatra
 
-Runtime Environments
+### Runtime Environments
+
 - Node.js
 
-Databases
+### Databases
+
 - MySQL
 - PostgreSQL
 - MongoDB
 - SQLite
 
-Misc.
+### Misc.
+
 - Git
 - Google Cloud Platform
 - JSON Web Token
