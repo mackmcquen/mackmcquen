@@ -5,6 +5,8 @@
               
 ## Skillset
 
+I am professionally familiar with full-stack JavaScript and enjoy C++ as a hobby.
+
 ### Languages
 
 - Javascript
@@ -15,6 +17,8 @@
 - Ruby
 
 ### Familiar Key Libraries (Node JS)
+
+- TypeScript
 
 **Frontend**
 
