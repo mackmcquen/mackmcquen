@@ -1,4 +1,4 @@
-My name is Mack, and I am an Application Engineer at Trajektory.
+My name is Mack, and I am a Software Developer at Trajektory.
               
 ## Skillset
 
