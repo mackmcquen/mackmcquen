@@ -1,8 +1,8 @@
-My name is Mack, and I am a Software Developer at Trajektory.
+My name is Mack, and I am an Application Engineer at Trajektory.
               
 ## Skillset
 
-I professionally work with full-stack JavaScript (TypeScript).
+I professionally develop with full-stack JavaScript (TypeScript).
 
 I have years of experience writing code in both the Stack Overflow & the AI era 😄.
 
