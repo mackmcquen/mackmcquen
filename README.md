@@ -5,7 +5,9 @@
               
 ## Skillset
 
-I professionally work with full-stack JavaScript (TypeScript) and enjoy C++ as a hobby.
+I professionally work with full-stack JavaScript (TypeScript).
+
+I have years of experience writing code in both the Stack Overflow & the AI era 😄.
 
 ### Languages
 
