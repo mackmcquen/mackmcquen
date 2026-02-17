@@ -1,67 +1,50 @@
-My name is Mack, and I am a Software Developer at Trajektory.
-              
-## Skillset
+I am a full-stack developer with over 5 years of professional experience, beginning at the earliest stage of a startup.  I’ve worked within a growing team to build, maintain and scale a full-fledged, data-driven web application from the ground up.
 
-I professionally develop with full-stack JavaScript (TypeScript).
+The following are some key tools that I’ve worked with extensively throughout:
 
-I have years of experience writing code in both the Stack Overflow & the AI era 😄.
+Languages
 
-### Languages
+  - Javascript (TypeScript)
+  - SQL (BigQuery)
+  - HTML
+  - CSS
 
-- Javascript
-- SQL
-- HTML
-- CSS
-- C++
-- Ruby
+Key Libraries (Node JS)
 
-### Familiar Key Libraries (Node JS)
+  Frontend
 
-- TypeScript
+    - React
+    - Material-UI
+    - Tanstack (React) Query
+    - Recharts
+    - Zustand
+    - Context
+    - Redux
 
-**Frontend**
+  Backend
 
-- React
-- Material-UI
-- Tanstack (React) Query
-- Recharts
-- Zustand
-- Context
-- Redux
+    - Express
+    - GraphQL
 
----
+Runtime Environments
 
-**Backend**
+  - Node.js
 
-- Express
-- GraphQL
-- Ruby on Rails
-- Active Record
-- Sinatra
+Databases
 
-### Runtime Environments
+  - BigQuery
+  - MySQL
 
-- Node.js
+IDE
 
-### Databases
+  - Cursor
+  - VSCode
 
-- MySQL
-- PostgreSQL
-- MongoDB
-- SQLite
+Misc.
 
-### Misc.
-
-- Git
-- Google Cloud Platform
-- JSON Web Token
-- Figma
-- Zeplin
-- Postman
-- Netlify
-- Heroku
-- Strapi
-- WordPress
-
-
-Thanks for reading!
+  - Git
+  - Google Cloud Platform
+  - Postman
+  - Figma
+  - Zeplin
+  - Airtable
