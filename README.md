@@ -4,10 +4,10 @@ The following are some key tools that I’ve worked with extensively throughout:
 
 Languages
 
-  - Javascript (TypeScript)
-  - SQL (BigQuery)
-  - HTML
-  - CSS
+    - Javascript (TypeScript)
+    - SQL (BigQuery)
+    - HTML
+    - CSS
 
 Key Libraries (Node JS)
 
@@ -28,23 +28,23 @@ Key Libraries (Node JS)
 
 Runtime Environments
 
-  - Node.js
+    - Node.js
 
 Databases
 
-  - BigQuery
-  - MySQL
+    - BigQuery
+    - MySQL
 
 IDE
 
-  - Cursor
-  - VSCode
+    - Cursor
+    - VSCode
 
 Misc.
 
-  - Git
-  - Google Cloud Platform
-  - Postman
-  - Figma
-  - Zeplin
-  - Airtable
+    - Git
+    - Google Cloud Platform
+    - Postman
+    - Figma
+    - Zeplin
+    - Airtable
