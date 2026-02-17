@@ -2,16 +2,16 @@ I am a full-stack developer with over 5 years of professional experience, beginn
 
 The following are some key tools that I’ve worked with extensively throughout:
 
-Languages
+# Languages
 
     - Javascript (TypeScript)
     - SQL (BigQuery)
     - HTML
     - CSS
 
-Key Libraries (Node JS)
+# Key Libraries (Node JS)
 
-  Frontend
+  ## Frontend
 
     - React
     - Material-UI
@@ -21,26 +21,26 @@ Key Libraries (Node JS)
     - Context
     - Redux
 
-  Backend
+  ## Backend
 
     - Express
     - GraphQL
 
-Runtime Environments
+# Runtime Environments
 
     - Node.js
 
-Databases
+# Databases
 
     - BigQuery
     - MySQL
 
-IDE
+# IDE
 
     - Cursor
     - VSCode
 
-Misc.
+# Misc.
 
     - Git
     - Google Cloud Platform
